@@ -1,7 +1,0 @@
-ipython
-jupyterlab
-matplotlib
-networkx
-numpy
-pandas
-scipy
